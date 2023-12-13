@@ -1,0 +1,14 @@
+C:\Users\mmm\source\repos\maktab-c#\week-1\CW-6\CW-6\bin\Debug\net7.0\CW-6.exe
+C:\Users\mmm\source\repos\maktab-c#\week-1\CW-6\CW-6\bin\Debug\net7.0\CW-6.deps.json
+C:\Users\mmm\source\repos\maktab-c#\week-1\CW-6\CW-6\bin\Debug\net7.0\CW-6.runtimeconfig.json
+C:\Users\mmm\source\repos\maktab-c#\week-1\CW-6\CW-6\bin\Debug\net7.0\CW-6.dll
+C:\Users\mmm\source\repos\maktab-c#\week-1\CW-6\CW-6\bin\Debug\net7.0\CW-6.pdb
+C:\Users\mmm\source\repos\maktab-c#\week-1\CW-6\CW-6\obj\Debug\net7.0\CW-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmm\source\repos\maktab-c#\week-1\CW-6\CW-6\obj\Debug\net7.0\CW-6.AssemblyInfoInputs.cache
+C:\Users\mmm\source\repos\maktab-c#\week-1\CW-6\CW-6\obj\Debug\net7.0\CW-6.AssemblyInfo.cs
+C:\Users\mmm\source\repos\maktab-c#\week-1\CW-6\CW-6\obj\Debug\net7.0\CW-6.csproj.CoreCompileInputs.cache
+C:\Users\mmm\source\repos\maktab-c#\week-1\CW-6\CW-6\obj\Debug\net7.0\CW-6.dll
+C:\Users\mmm\source\repos\maktab-c#\week-1\CW-6\CW-6\obj\Debug\net7.0\refint\CW-6.dll
+C:\Users\mmm\source\repos\maktab-c#\week-1\CW-6\CW-6\obj\Debug\net7.0\CW-6.pdb
+C:\Users\mmm\source\repos\maktab-c#\week-1\CW-6\CW-6\obj\Debug\net7.0\CW-6.genruntimeconfig.cache
+C:\Users\mmm\source\repos\maktab-c#\week-1\CW-6\CW-6\obj\Debug\net7.0\ref\CW-6.dll
